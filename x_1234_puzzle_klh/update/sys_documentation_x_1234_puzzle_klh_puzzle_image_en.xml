@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="number" label="Number" language="en" table="x_1234_puzzle_klh_puzzle">
+    <sys_documentation element="image" label="Image" language="en" table="x_1234_puzzle_klh_puzzle">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>image</element>
             <help/>
             <hint/>
-            <label>Number</label>
+            <label>Image</label>
             <language>en</language>
             <name>x_1234_puzzle_klh_puzzle</name>
-            <plural>Numbers</plural>
+            <plural>Images</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-22 20:11:06</sys_created_on>
-            <sys_id>cd69d6b66d2110107f44e44040c4490f</sys_id>
+            <sys_created_on>2020-06-25 20:54:39</sys_created_on>
+            <sys_id>2ec8de766d2110107f44e44040c449c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Number</sys_name>
+            <sys_name>Image</sys_name>
             <sys_package display_value="Puzzle Tracker klh" source="x_1234_puzzle_klh">cc50feb19c6990107f44e99d2f22fe53</sys_package>
             <sys_policy/>
             <sys_scope display_value="Puzzle Tracker klh">cc50feb19c6990107f44e99d2f22fe53</sys_scope>
-            <sys_update_name>sys_documentation_x_1234_puzzle_klh_puzzle_number_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1234_puzzle_klh_puzzle_image_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-22 20:11:06</sys_updated_on>
+            <sys_updated_on>2020-06-25 20:54:39</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
